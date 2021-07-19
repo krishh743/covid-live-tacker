@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid-live-tacker/static/css/main.3364df2e.chunk.css",
+    "main.js": "/covid-live-tacker/static/js/main.675c2f52.chunk.js",
+    "main.js.map": "/covid-live-tacker/static/js/main.675c2f52.chunk.js.map",
+    "runtime-main.js": "/covid-live-tacker/static/js/runtime-main.d90ccd28.js",
+    "runtime-main.js.map": "/covid-live-tacker/static/js/runtime-main.d90ccd28.js.map",
+    "static/js/2.4be5e718.chunk.js": "/covid-live-tacker/static/js/2.4be5e718.chunk.js",
+    "static/js/2.4be5e718.chunk.js.map": "/covid-live-tacker/static/js/2.4be5e718.chunk.js.map",
+    "static/js/3.eed3e629.chunk.js": "/covid-live-tacker/static/js/3.eed3e629.chunk.js",
+    "static/js/3.eed3e629.chunk.js.map": "/covid-live-tacker/static/js/3.eed3e629.chunk.js.map",
+    "index.html": "/covid-live-tacker/index.html",
+    "static/css/main.3364df2e.chunk.css.map": "/covid-live-tacker/static/css/main.3364df2e.chunk.css.map",
+    "static/js/2.4be5e718.chunk.js.LICENSE.txt": "/covid-live-tacker/static/js/2.4be5e718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d90ccd28.js",
+    "static/js/2.4be5e718.chunk.js",
+    "static/css/main.3364df2e.chunk.css",
+    "static/js/main.675c2f52.chunk.js"
+  ]
+}
