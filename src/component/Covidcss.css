@@ -1,0 +1,23 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+.card{
+background-color: skyblue;
+
+}
+h1{
+color: red;
+}
+h2{
+color:green;
+}
+.card_total {
+color: rgb(180, 87, 70);
+}
+.card_name{
+color:black
+}
