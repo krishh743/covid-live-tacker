@@ -15,9 +15,52 @@ color: red;
 h2{
 color:green;
 }
-.card_total {
+.card__total {
 color: rgb(180, 87, 70);
 }
-.card_name{
+.card__name{
 color:black
+}
+/* .live{
+color: red;
+ width: 100px;
+  height: 100px;
+ 
+  position: relative;
+  animation: mymove 3s infinite;
+
+}
+@keyframes mymove {
+  from {left: 600px;}
+  to {left: 800px;}
+} */
+
+.live {
+  -webkit-animation: 2s linear infinite condemned_blink_effect; /* for Safari 4.0 - 8.0 */
+  animation: 1s linear infinite condemned_blink_effect;
+}
+
+/* for Safari 4.0 - 8.0 */
+@-webkit-keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+@keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
 }
