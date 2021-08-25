@@ -30,7 +30,7 @@ setData(actualData.statewise[0]);
               <p className="card_name">
                 <span>our </span>country
               </p>
-              <p className="card_total card -small">INDIA</p>
+              <p className="card_total card_small">INDIA</p>
             </div>
           </div>
 
@@ -41,7 +41,7 @@ setData(actualData.statewise[0]);
               <p className="card_name">
                 <span>total </span>recoverd
               </p>
-              <p className="card_total card -small">{data.recovered}</p>
+              <p className="card_total card_small">{data.recovered}</p>
             </div>
           </div>
         </li>
@@ -51,7 +51,7 @@ setData(actualData.statewise[0]);
               <p className="card_name">
                 <span>total </span>confirmed
               </p>
-              <p className="card_total card -small">{data.confirmed}</p>
+              <p className="card_total card_small">{data.confirmed}</p>
             </div>
           </div>
 
@@ -62,7 +62,7 @@ setData(actualData.statewise[0]);
               <p className="card_name">
                 <span>total</span> death
               </p>
-              <p className="card_total card -small">{data.deaths}</p>
+              <p className="card_total card_small">{data.deaths}</p>
             </div>
           </div>
 
@@ -73,7 +73,7 @@ setData(actualData.statewise[0]);
               <p className="card_name">
                 <span>total</span> active cases
               </p>
-              <p className="card_total card -small">{data.active}</p>
+              <p className="card_total card_small">{data.active}</p>
             </div>
           </div>
 
